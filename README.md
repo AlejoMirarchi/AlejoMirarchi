@@ -3,7 +3,7 @@
 
 # 🛹 **¡Qué onda! Soy Alejo — el Monstruo Skater del Código 🤘**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV0NmlldzhmM2k1cWk0d3JjaDRmc3lhd3djZ3RnOWt3bm1xdW9pbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="420" style="border-radius: 15px;"/>
+<img src="https://www.team17.com/hs-fs/hubfs/Imported_Blog_Media/worms-3d-red-bull.gif?width=500&height=400&name=worms-3d-red-bull.gif" width="420" style="border-radius: 15px;"/>
 
 ### 🧠 Creador de **ALFREDOSKATE** | 🎨 Diseñador de ideas con alma y código
 
@@ -36,7 +36,7 @@
 
 ### 🎧 **Mi tema con más flow:**
 [![Tema del Momento](https://i.scdn.co/image/ab67616d0000b273956001cdbc42ea5a35a39cc3)](https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp)
-> 🎶 *Deftones – My Own Summer (Shove It)*  
+
 
 ---
 
@@ -47,7 +47,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25rb21vdHpsb2VvaGh5cnhmMWh1eXg1N3dlbXcwczFrOHV6NmIybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jt7bAtEijhurm/giphy.gif" width="350" style="border-radius:15px; margin-top:10px;"/>
+
 
 🛹 *Keep rolling, keep coding.* 🤙  
 
