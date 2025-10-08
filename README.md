@@ -1,7 +1,7 @@
 <!-- ✨ PROFILE README ✨ -->
 <div align="center">
 
-# 🛹 **¡Qué onda! Soy Alejo — el Monstruo Skater del Código 🤘**
+# 🛹 **¡Qué onda! Soy Alejo — el Monstruo del codigo 🤘**
 
 <img src="https://www.team17.com/hs-fs/hubfs/Imported_Blog_Media/worms-3d-red-bull.gif?width=500&height=400&name=worms-3d-red-bull.gif" width="420" style="border-radius: 15px;"/>
 
