@@ -33,9 +33,10 @@ alma de código
 
 ---
 
-### 🎧 **Lo que me da ritmo al codear**
-### 🎧 Mi tema del momento:
-[![Mi canción](https://img.shields.io/badge/Now_Playing:-Linkin_Park_-_Papercut-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV)
+
+### 🎧 Mi tema con más flow:
+[![Spotify Song](https://spotify-github-profile.vercel.app/api/view?uid=22abcdefgxyz&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV)
+
 
 
 ---
