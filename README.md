@@ -6,27 +6,24 @@
 
 <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="400"/>
 
-### 💥 Full Stack Dev | 🧠 Creador de ALFREDOSKATE | 🎨 Diseñador de ideas locas
+### 🧠 Creador de ALFREDOSKATE | 🎨 
 
 ---
 
 ### 🚀 **Mis poderes**
-🧩 JavaScript / React / PHP / Node.js  
-🎨 HTML / CSS / Tailwind / Framer Motion  
-🛠️ MySQL / MongoDB / Git / Linux  
-🧠 Creatividad, flow y un poco de locura 😜
+🧩 JavaScript / React / Node.js  
+🎨 HTML / CSS / Tailwind / Framer Motion    
+🧠 Creatividad y diseño divertido 😜
 
 ---
 
-### 💾 **Lo que ando creando ahora**
-- 🛹 **[ALFREDOSKATE](https://github.com/tuusuario/ALFREDOSKATE)** → Tienda skater con alma de código  
+alma de código  
 - 💼 Sistema de logística full custom  
 - 🎮 Mods y scripts para juegos (porque la vida sin game es aburrida)
 
 ---
-
 ### 🧠 **Mi filosofía**
-> “El código es como andar en skate: te caés mil veces, pero cuando lo clavás, volás.”
+> “El código es como andar en skate: te caés mil veces, pero cuando lo clavás....”
 
 ---
 
@@ -37,7 +34,9 @@
 ---
 
 ### 🎧 **Lo que me da ritmo al codear**
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/tuusuario)
+### 🎧 Mi tema del momento:
+[![Mi canción](https://img.shields.io/badge/Now_Playing:-Linkin_Park_-_Papercut-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV)
+
 
 ---
 
