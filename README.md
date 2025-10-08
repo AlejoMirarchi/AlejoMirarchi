@@ -34,10 +34,6 @@ alma de código
 ---
 
 
-### 🎶 Sonando en mi cabeza:
-[![Tema del Momento](https://i.scdn.co/image/ab67616d0000b273ff8b5f1efb4eaa8b6d9f4b94)](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV)
-> 🎧 *Linkin Park – Papercut*
-
 
 
 
