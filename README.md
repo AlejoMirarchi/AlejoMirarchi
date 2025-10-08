@@ -34,7 +34,7 @@ alma de código
 ---
 
 
-
+<img src="https://i.scdn.co/image/ab67616d0000b273956001cdbc42ea5a35a39cc3" width="400"/>
 
 
 ---
@@ -48,5 +48,5 @@ alma de código
 
 <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300"/>
 
-🛹 *Keep rolling, keep coding.* 🤙  
+
 </div>
