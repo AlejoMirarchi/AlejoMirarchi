@@ -40,7 +40,7 @@ alma de código
 ---
 
 ### 🔥 **Contactame si querés hacer algo ÉPICO**
-[![Instagram](https://img.shields.io/badge/-@tuinsta-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuinsta)
+[![Instagram](https://img.shields.io/badge/-@tuinsta-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4letterlie_)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tulinkedin)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-black?style=for-the-badge)](https://tuweb.com)
 
